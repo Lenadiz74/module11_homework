@@ -18,5 +18,10 @@
   "homepage": "https://github.com/Lenadiz74/module11_homework#readme",
   "dependencies": {
     "jest": "^27.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "babel-jest": "^27.3.1"
   }
 }
